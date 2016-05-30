@@ -1,4 +1,4 @@
-# [Sphero](https://telegram.me/Sphero) *And Professionall* [Helper](http://telegram.me/Spherorobot)
+# [Super Sphero](https://telegram.me/Sphero) *Bot*
 
 _Open Source For all_
 
@@ -26,6 +26,7 @@ And check *bot/seedbot.lua : line 229* and putt your ID
 
 # [My Team](http://telegram.me/Spheroch)
 *Admin or me :* [MrBlackLife](http://telegram.me/mrblacklife)
+*Allwen (Arian)
 *Mobin BlackLife
 *Solid BlackLife
 *Poorya BlackLife
@@ -34,6 +35,6 @@ _And more . . ._
 
 *Please Don't Remove My Name  From Source and do not Change About Pattern and About Text :(*
 # [Click Here To join Sphero Channel](http://telegram.me/Spheroch)
-*Dev by [MrBlackLife](http://telegram.me/mrblacklife)*
+*Dev by [MrBlackLife](http://telegram.me/mrblacklife) & [Allwen](https://telegram.me/allwen)*
 
 # *Good Luck* 
